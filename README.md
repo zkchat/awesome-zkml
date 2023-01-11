@@ -1,9 +1,10 @@
 # awesome-zkml
 
 # ZK Telegram groups
-[ZKChat Community](https://t.me/+gd7cESlKELUxNjlk)
-[ZKML Community](https://t.me/zkmlcommunity)
-[ZERO KNOWLEDGE PODCAST](https://t.me/joinchat/TORo7aknkYNLHmCM)
+
+- [ZKChat Community](https://t.me/+gd7cESlKELUxNjlk)
+- [ZKML Community](https://t.me/zkmlcommunity)
+- [ZERO KNOWLEDGE PODCAST](https://t.me/joinchat/TORo7aknkYNLHmCM)
 
 
 A place where you can find content, codebases, scientific papers, projects and applications related to ZKML. Contributions and suggestions are always welcome, open issues or pull requests with any changes you want to be made and don't forget to join our Telegram community (link below).
